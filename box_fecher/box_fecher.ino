@@ -28,7 +28,8 @@ Servo servos[SERVO_NUM];
 
 uint8_t btKeyCode = 0;
 uint8_t spKeyCode = 0;
-s 
+
+
 void setup()
 {
   SERVO_ATTACH();
